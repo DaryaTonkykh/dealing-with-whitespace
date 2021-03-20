@@ -1,0 +1,30 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Crimson Text', serif;
+  line-height: 1.3;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+margin
+
+
+main ol {
+  list-style-type: none;
+  text-align: center;
+  padding: 1rem;
+  background-color: none;
+  font-size: 1.3rem;
+  font-weight: regular;
+}
+
+
+color
+font
+font-size
+font-weight
+font-style
+line-height
+border
