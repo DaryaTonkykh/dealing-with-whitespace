@@ -19,20 +19,25 @@ article {
   font-family: "Crimson Text", serif;
 }
 
+article header {
+  font-family: "Crimson Text", serif;
+  }
+
 article h1 {
   font-family: "Crimson Text", serif;
   font-size: 1.5rem;
   color: #222;
+  margin-bottom: 0;
 }
 
-header p {margin-top: 0;
+article header p {margin-top: 0;
   margin-bottom: 1.3rem;
   font-size: 1.125rem;
   font-style: italic;
   color: #555;
 }
 
-main ol {
+article ol {
   list-style-type: none;
   text-align: center;
   padding: 1rem;
@@ -41,6 +46,7 @@ main ol {
 }
 
 blockquote {
+  font-family: "Crimson Text", serif;
 }
 
 .quote {
