@@ -15,7 +15,7 @@ main ol {
   list-style-type: none;
   text-align: center;
   padding: 1rem;
-  background-color: none;
+  background-color: #fff;
   font-size: 1.3rem;
   font-weight: regular;
 }
