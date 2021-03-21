@@ -4,6 +4,7 @@ html {
   font-weight: lighter;
   line-height: 1.3;
   margin-left: 1em;
+  margin-right: 1em;
 }
 
 *, *::before, *::after {
@@ -17,6 +18,7 @@ body {
 
 article {
   font-family: "Crimson Text", serif;
+  margin-bottom: 1.3rem;
 }
 
 article header {
@@ -41,6 +43,7 @@ article header p {
 article p {
   font-family: "Crimson Text", serif;
   font-weight: lighter;
+  color: #555;
 }
 
 article ol {
@@ -50,11 +53,7 @@ article ol {
 }
 
 blockquote {
-  margin-left: 0;
-  margin-top: -1.3rem;
-  margin-bottom: -1.3rem;
   font-family: "Crimson Text", serif;
-  padding: 1rem;
   color: #999;
   font-size: 1.125rem;
 }
@@ -62,4 +61,8 @@ blockquote {
 .quote {
   padding: 1em;
   color: #999;
+}
+
+.line {
+  border-bottom: 2px;
 }
