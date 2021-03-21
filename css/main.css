@@ -44,12 +44,15 @@ article p {
   font-family: "Crimson Text", serif;
   font-weight: lighter;
   color: #555;
+  margin-bottom: 1.3rem;
 }
 
 article ol {
   font-family: "Crimson Text", serif;
   color: #555;
-  padding: 1rem;
+  padding: 1.3rem;
+  margin-top: -1.3rem;
+  margin-bottom: -.8rem;
 }
 
 blockquote {
@@ -59,10 +62,5 @@ blockquote {
 }
 
 .quote {
-  padding: 1em;
   color: #999;
-}
-
-.line {
-  border-bottom: 2px;
 }
