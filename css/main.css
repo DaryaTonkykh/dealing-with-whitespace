@@ -19,6 +19,8 @@ body {
 article {
   font-family: "Crimson Text", serif;
   margin-bottom: 1.3rem;
+  border-bottom: solid #222 2px;
+  border-top: solid #222 2px;
 }
 
 article header {
@@ -53,6 +55,7 @@ article ol {
   padding: 1.3rem;
   margin-top: -1.3rem;
   margin-bottom: -.8rem;
+  margin-left: -.3rem;
 }
 
 blockquote {
